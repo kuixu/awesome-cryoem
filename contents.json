@@ -3835,6 +3835,15 @@
  		"category": "transition",
  		"description": "Beautiful and precise transitions between ViewControllers images.",
  		"homepage": "https://github.com/mcmatan/ImageOpenTransition"
-  	}
+  },
+   {
+    "title": "Kui Test",
+    "category": "transition",
+    "description": "Beautiful and precise transitions between ViewControllers images.",
+    "homepage": "https://github.com/mcmatan/ImageOpenTransition"
+    }
+
+
+
 ]
 }
