@@ -85,8 +85,23 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [EMDB](https://www.ebi.ac.uk/pdbe/emdb/index.html) - The Electron Microscopy Data Bank (EMDB)
+* [EMPIAR](https://www.ebi.ac.uk/pdbe/emdb/empiar) - EMPIAR, the Electron Microscopy Pilot Image Archive, is a public resource for raw, 2D electron microscopy images.
 * [PDB](http://www.rcsb.org/pdb/home/home.do) - Protein Data Bank
 * [PDBe](http://www.ebi.ac.uk/pdbe) - Protein Data Bank in Europe
 * [PDBj](http://www.pdbj.org) - Protein Data Bank Japan 
 * 
+
+
+## Active Groups
+
+* MRC
+    * [Scheres(Relion Author)](#) - Page 
+* Franklin
+* Bob Glaeser
+* Yifan Cheng
+* Eva
+* David Baker
+* Frank DiMaio
+* Toronto
+* Xueming Li
 
