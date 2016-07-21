@@ -10,3 +10,74 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Contents
 
 - [Guides](#guides)
+    - [Official Guides](#official-guides)
+    - [Third party Guides](#third-party-guides)
+- [Softwares](#softwares) 
+- [Technologies](#technologies)
+
+
+## Guides
+*An awesome list of Swift related guides.* 
+
+### Official Guides
+[back to top](#readme) 
+
+* [Three Mnis Introduction of CryoEM](#)- Official Swift API design guidelines.
+* 
+
+### Third party Guides
+[back to top](#readme) 
+
+## Softwares
+[back to top](#readme) 
+
+* [UCSF Chimera](https://www.cgl.ucsf.edu/chimera/)
+* [Relion](#)
+* [COOT](#)
+* [EMAN2](#)
+* [PHENIX](#)
+* [Rosetta](#)
+    * [RosettaCM](#)
+* [SPIDER](#)
+* [CCP4](#)
+    * [Buccaneer](#)
+    * [SFTOOLS](#)
+* [ResMap](#)
+* [DeepPicker](#)
+* [FindEM](#)
+
+## Technologies
+[back to top](#readme) 
+
+* [Single Particle](#)
+* [Tomography](#)
+* [MircoED](#)
+*
+
+## Computational Problem
+[back to top](#readme) 
+
+* Particle Picking
+    * Fully Automatic
+      * [DeepPicker](#)
+      * [FindEM](#)
+    * Semi Automatic
+    * 
+* 2D Classification
+* 3D Classification
+* Motion Correction
+* CTF Correction
+* Model Building
+    * [Rosetta](#)
+    * [EMAN2](#)
+    * [PHENIX](#)
+* Model Validation
+
+## Validation Metrics
+[back to top](#readme) 
+
+* RMSD
+* FSC
+* B-factor
+* 
+
