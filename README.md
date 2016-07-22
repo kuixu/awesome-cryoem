@@ -8,7 +8,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 ![Awesome CryoEM]
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) July 21, 2016
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) July 22, 2016
 
 ### Contributing
 
@@ -20,6 +20,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 - [Softwares](#softwares)
 - [Technologies](#technologies)
 - [Databases](#databases)
+- [Validation Metrics](#validation-metrics)
+- [Computational Problems](#computational-problems)
+- [Active Groups](#active-groups)
+- [Computational Problems](#computational-problems)
+- [Computational Problems](#computational-problems)
 
 ## Guides
 *A collaborative list of awesome CryoEM (Electron Cryo-Microscopy) resources. Feel free to contribute!* 
@@ -32,3 +37,18 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ## Databases
 *Databases present EM data* 
+
+## Validation Metrics
+*Validation Metrics in CryoEM* 
+
+## Computational Problems
+*Computational Problems in CryoEM* 
+
+## Active Groups
+*Active Groups in CryoEM* 
+
+## Computational Problems
+*Computational Problems in CryoEM* 
+
+## Computational Problems
+*Computational Problems in CryoEM* 
