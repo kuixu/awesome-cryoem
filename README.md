@@ -17,6 +17,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Contents
 
 - [Guides](#guides)
+  - [Official Guides](#official-guides)
 - [Softwares](#softwares)
 - [Technologies](#technologies)
 - [Databases](#databases)
@@ -28,6 +29,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ## Guides
 *A collaborative list of awesome CryoEM (Electron Cryo-Microscopy) resources. Feel free to contribute!* 
+
+### Official Guides
+[back to top](#readme) 
+
+* [Apple eBook](https://github.com/joshualat/Pluralize.swift) - Official Apple eBook for swift beginners.
 
 ## Softwares
 *Softwares used in CryoEM* 
