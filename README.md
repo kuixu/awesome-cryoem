@@ -8,7 +8,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 ![Awesome CryoEM]
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) July 22, 2016
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) July 23, 2016
 
 ### Contributing
 
@@ -18,6 +18,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 - [Guides](#guides)
   - [Official Guides](#official-guides)
+  - [Third party Guides](#third-party-guides)
 - [Softwares](#softwares)
 - [Technologies](#technologies)
 - [Databases](#databases)
@@ -34,6 +35,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [Apple eBook](https://github.com/joshualat/Pluralize.swift) - Official Apple eBook for swift beginners.
+
+### Third party Guides
+[back to top](#readme) 
+
 
 ## Softwares
 *Softwares used in CryoEM* 
