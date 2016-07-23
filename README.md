@@ -1,14 +1,7 @@
 # Awesome CryoEM
- 
-<!-- 
+A collaborative list of awesome CryoEM (Electron Cryo-Microscopy) resources. Feel free to contribute!
 
-PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
-
- -->
-
-
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) July 23, 2016
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ### Contributing
 
@@ -17,95 +10,98 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Contents
 
 - [Guides](#guides)
-  - [Official Guides](#official-guides)
-  - [](#official-guides)
-  - [Third party Guides](#third-party-guides)
-- [Softwares](#softwares)
+    - [Official Guides](#official-guides)
+    - [Third party Guides](#third-party-guides)
+- [Softwares](#softwares) 
 - [Technologies](#technologies)
-- [Databases](#databases)
-- [Validation Metrics](#validation-metrics)
-- [Computational Problems](#computational-problems)
-- [Active Groups](#active-groups)
-- [Computational Problems](#computational-problems)
-- [Computational Problems](#computational-problems)
+
 
 ## Guides
-*A collaborative list of awesome CryoEM (Electron Cryo-Microscopy) resources. Feel free to contribute!* 
+*An awesome list of Swift related guides.* 
 
 ### Official Guides
 [back to top](#readme) 
 
-* [Three minis Introduction of CryoEM](https://github.com/barrykui/) - Three minis Introduction of CryoEM for the beginner.
-
-### 
-[back to top](#readme) 
-
-* [Three minis Introduction of CryoEM](https://github.com/barrykui/) - Three minis Introduction of CryoEM for the beginner.
+* [Three Mnis Introduction of CryoEM](#)- Official Swift API design guidelines.
+* 
 
 ### Third party Guides
 [back to top](#readme) 
 
-
 ## Softwares
-*Softwares used in CryoEM* 
-* [CCP4](https://github.com) - CCP4
-* [CCP4-Buccaneer](https://github.com) - CCP4-Buccaneer
-* [CCP4-SFTOOLS](https://github.com) - SFTOOLS
-* [COOT](http://www2.mrc-lmb.cam.ac.uk/personal/pemsley/coot/) - Interactive visualization tool for model building, model completion and validation.
-* [DeepPicker](https://github.com) - DeepPicker
-* [EMAN2](https://github.com) - eman2
-* [EMfold](https://github.com) - EMfold
-* [EMfold](https://github.com) - EMfold
-* [EMfold](https://github.com) - EMfold
-* [EMfold](https://github.com) - EMfold
-* [EMfold](https://github.com) - EMfold
-* [EMfold](https://github.com) - EMfold
-* [EMfold](https://github.com) - EMfold
-* [EMfold](https://github.com) - EMfold
-* [EMfold](https://github.com) - EMfold
-* [EMfold](https://github.com) - EMfold
-* [EMfold](https://github.com) - EMfold
-* [EMfold](https://github.com) - EMfold
-* [EMfold](https://github.com) - EMfold
-* [EMfold](https://github.com) - EMfold
-* [EMfold](https://github.com) - EMfold
-* [EMfold](https://github.com) - EMfold
-* [EMfold](https://github.com) - EMfold
-* [EMfold](https://github.com) - EMfold
-* [EMfold](https://github.com) - EMfold
-* [EMfold](https://github.com) - EMfold
-* [FindEM](https://github.com) - FindEM
-* [PHENIX](http://www2.mrc-lmb.cam.ac.uk/personal/pemsley/coot/) - Interactive visualization tool for model building, model completion and validation.
-* [Relion](http://www2.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page) - 3D reconstructions or 2D class averages in CryoEM
-* [ResMap](https://github.com) - ResMap
-* [Rosetta](https://github.com) - Rosetta
-* [RosettaCM](https://github.com) - RosettaCM
-* [SPIDER](https://github.com) - SPIDER
-* [UCSF Chimera](https://www.cgl.ucsf.edu/chimera/) - A great interactive visualization and analysis of structures.
+[back to top](#readme) 
+
+* [UCSF Chimera](https://www.cgl.ucsf.edu/chimera/)
+* [Relion](#)
+* [COOT](#)
+* [EMAN2](#)
+* [PHENIX](#)
+* [Rosetta](#)
+    * [RosettaCM](#)
+* [SPIDER](#)
+* [CCP4](#)
+    * [Buccaneer](#)
+    * [SFTOOLS](#)
+* [ResMap](#)
+* [DeepPicker](#)
+* [FindEM](#)
 
 ## Technologies
-*Technologies used in CryoEM* 
-* [MircoED](https://github.com) - MircoED
-* [Single Particle](https://github.com) - Single Particle
-* [Tomography](https://github.com) - Tomography
+[back to top](#readme) 
 
-## Databases
-*Databases present EM data* 
+* [Single Particle](#)
+* [Tomography](#)
+* [MircoED](#)
+*
+
+## Computational Problem
+[back to top](#readme) 
+
+* Particle Picking
+    * Fully Automatic
+      * [DeepPicker](#)
+      * [FindEM](#)
+    * Semi Automatic
+    * 
+* 2D Classification
+* 3D Classification
+* Motion Correction
+* CTF Correction
+* Model Building
+    * [Rosetta](#)
+    * [EMAN2](#)
+    * [PHENIX](#)
+* Model Validation
 
 ## Validation Metrics
-*Validation Metrics in CryoEM* 
+[back to top](#readme) 
 
-## Computational Problems
-*Computational Problems in CryoEM* 
-* [EMfold](https://github.com) - EMfold
+* RMSD
+* FSC
+* B-factor
+* 
+
+## DataBase
+[back to top](#readme) 
+
+* [EMDB](https://www.ebi.ac.uk/pdbe/emdb/index.html) - The Electron Microscopy Data Bank (EMDB)
+* [EMPIAR](https://www.ebi.ac.uk/pdbe/emdb/empiar) - EMPIAR, the Electron Microscopy Pilot Image Archive, is a public resource for raw, 2D electron microscopy images.
+* [PDB](http://www.rcsb.org/pdb/home/home.do) - Protein Data Bank
+* [PDBe](http://www.ebi.ac.uk/pdbe) - Protein Data Bank in Europe
+* [PDBj](http://www.pdbj.org) - Protein Data Bank Japan 
+* 
+
 
 ## Active Groups
-*Active Groups in CryoEM* 
 
-## Computational Problems
-*Computational Problems in CryoEM* 
-* [EMfold](https://github.com) - EMfold
+* MRC
+    * [Scheres(Relion Author)](#) - Page 
+* Franklin
+* Bob Glaeser
+* Yifan Cheng
+* Eva
+* David Baker
+* Frank DiMaio
+* Toronto
+* Xueming Li
 
-## Computational Problems
-*Computational Problems in CryoEM* 
-* [EMfold](https://github.com) - EMfold
