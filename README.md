@@ -21,12 +21,12 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 
 ## Guides
-*An awesome list of Swift related guides.* 
+*An awesome list of CryoEM related guides.* 
 
 ### Official Guides
 [back to top](#readme) 
 
-* [Three Mnis Introduction of CryoEM](#)- Official Swift API design guidelines.
+* [Three Mnis Introduction of CryoEM](#) - Official Swift API design guidelines.
 
 ### Third party Guides
 [back to top](#readme) 
