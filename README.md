@@ -14,6 +14,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Third party Guides](#third-party-guides)
 - [Softwares](#softwares) 
 - [Technologies](#technologies)
+- [Computational Problems](#computational-problems)
+- [Validation Metrics](#validation-metrics)
+- [DataBases](#database)
+- [Active Groups](#active-groups)
+- 
 
 
 ## Guides
@@ -23,7 +28,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [Three Mnis Introduction of CryoEM](#)- Official Swift API design guidelines.
-* 
 
 ### Third party Guides
 [back to top](#readme) 
@@ -45,6 +49,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [ResMap](#)
 * [DeepPicker](#)
 * [FindEM](#)
+*  [EMfold](#)
 
 ## Technologies
 [back to top](#readme) 
@@ -54,7 +59,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [MircoED](#)
 *
 
-## Computational Problem
+## Computational Problems
 [back to top](#readme) 
 
 * Particle Picking
@@ -81,7 +86,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * B-factor
 * 
 
-## DataBase
+## DataBases
 [back to top](#readme) 
 
 * [EMDB](https://www.ebi.ac.uk/pdbe/emdb/index.html) - The Electron Microscopy Data Bank (EMDB)
