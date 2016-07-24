@@ -18,7 +18,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 - [Validation Metrics](#validation-metrics)
 - [DataBases](#database)
 - [Active Groups](#active-groups)
-- 
 
 
 ## Guides
@@ -49,7 +48,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [ResMap](#)
 * [DeepPicker](#)
 * [FindEM](#)
-*  [EMfold](#)
+* [EMfold](#)
 
 ## Technologies
 [back to top](#readme) 
@@ -57,7 +56,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Single Particle](#)
 * [Tomography](#)
 * [MircoED](#)
-*
 
 ## Computational Problems
 [back to top](#readme) 
