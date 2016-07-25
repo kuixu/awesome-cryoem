@@ -37,7 +37,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [UCSF Chimera](https://www.cgl.ucsf.edu/chimera/)
 * [Relion](#)
 * [COOT](#)
-* [EMAN2](#)
+* [EMAN2](http://blake.bcm.edu/emanwiki/EMAN2) - A scientific image processing software suite with a focus on CryoEM and CryoET
 * [PHENIX](#)
 * [Rosetta](#)
     * [RosettaCM](#)
@@ -108,3 +108,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * Toronto
 * Xueming Li
 
+## Workshop Docs
+
+ * [EMAN2(2015-10)]()-
