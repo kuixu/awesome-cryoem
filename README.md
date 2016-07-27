@@ -115,7 +115,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ## Workshop Docs
 
-* [EMAN2 ](http://blake.bcm.edu/emanwiki/EMAN2/Tutorials)- 
+* [EMAN2 ](http://blake.bcm.edu/emanwiki/EMAN2/Tutorials)
 * [Resource from Meiler Lab](http://www.meilerlab.org/index.php/jobs/resources) - Rosetta Tutorials, Teaching Resources, etc.
 
 
