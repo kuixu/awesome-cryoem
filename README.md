@@ -67,15 +67,14 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
       * [DeepPicker](https://arxiv.org/abs/1605.01838) - Fully Automated Particle Picking using deep learning.
       * [FindEM](http://www.ccpem.ac.uk/ccpem_projects.php) - CCP-EM projects, automated particle picking from electron micrographs, using Fortran
     * Semi Automatic
-    * 
 * 2D Classification
 * 3D Classification
 * Motion Correction
 * CTF Correction
 * Model Building
-    * [Rosetta](#)
-    * [EMAN2](#)
-    * [PHENIX](#)
+    * [EMAN2](http://blake.bcm.edu/emanwiki/EMAN2) - A scientific image processing software suite with a focus on CryoEM and CryoET.
+    * [PHENIX](https://www.phenix-online.org/) - Automated determination of molecular structures using X-ray crystallography and other methods.
+    * [Rosetta](https://www.rosettacommons.org/) - A software suite includes algorithms for computational modeling and analysis of protein structures.
 * Model Validation
 
 ## Validation Metrics
@@ -83,8 +82,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [RMSD](https://en.wikipedia.org/wiki/Root-mean-square_deviation_of_atomic_positions) - Root Mean Square Deviation
 * [FSC](https://en.wikipedia.org/wiki/Fourier_shell_correlation) - Fourier shell correlation.
-* [B-factor](http://www.cmbi.ru.nl/bdb/theory/)
-* 
+* [B-factor](http://www.cmbi.ru.nl/bdb/theory/) -  A measure of (local) mobility in the (macro)molecule.
 
 ## DataBases
 [back to top](#readme) 
