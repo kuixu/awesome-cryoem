@@ -26,7 +26,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Official Guides
 [back to top](#readme) 
 
-* [Three Mnis Introduction of CryoEM](#) - Official Swift API design guidelines.
+* [3 Mins Introduction of CryoEM](#) - 3 Mins Introduction of CryoEM for beginners.
 
 ### Third party Guides
 [back to top](#readme) 
@@ -34,8 +34,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ## Softwares
 [back to top](#readme) 
 
-* [UCSF Chimera](https://www.cgl.ucsf.edu/chimera/)
-* [Relion](#)
+* [UCSF Chimera](https://www.cgl.ucsf.edu/chimera/) - An interactive visualization and analysis of structures.
+* [Relion](www2.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page) - A Bayesian approach to refinement of 3D reconstructions or 2D class averages.
 * [COOT](#)
 * [EMAN2](http://blake.bcm.edu/emanwiki/EMAN2) - A scientific image processing software suite with a focus on CryoEM and CryoET
 * [PHENIX](#)
