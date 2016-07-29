@@ -116,4 +116,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [EMAN2 ](http://blake.bcm.edu/emanwiki/EMAN2/Tutorials)
 * [Resource from Meiler Lab](http://www.meilerlab.org/index.php/jobs/resources) - Rosetta Tutorials, Teaching Resources, etc.
 
+## License
 
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Kui Xu](https://github.com/barrykui) has waived all copyright and related or neighboring rights to this work.
