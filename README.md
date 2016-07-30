@@ -75,8 +75,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     * [EMAN2](http://blake.bcm.edu/emanwiki/EMAN2) - A scientific image processing software suite with a focus on CryoEM and CryoET.
     * [PHENIX](https://www.phenix-online.org/) - Automated determination of molecular structures using X-ray crystallography and other methods.
     * [Rosetta](https://www.rosettacommons.org/) - A software suite includes algorithms for computational modeling and analysis of protein structures.
-    * [De novo protein structure determination from near-atomic-resolution cryo-EM maps](doi:10.1038/nmeth.3287)
-    * [Atomic accuracy models from 4.5 Å cryo-electron microscopy data with density-guided iterative local refinmentm)]
+    * [De novo protein structure determination from near-atomic-resolution cryo-EM maps](http://www.nature.com/doifinder/10.1038/nmeth.3287)
+    * [Atomic accuracy models from 4.5 Å cryo-electron microscopy data with density-guided iterative local refinement](http://www.nature.com/doifinder/10.1038/nmeth.3286)
 * Model Validation
 
 ## Validation Metrics
