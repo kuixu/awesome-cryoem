@@ -112,7 +112,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Frank DiMaio](https://faculty.washington.edu/dimaio/wordpress/) - CryoEM model building.
 * [Xueming Li](http://life.tsinghua.edu.cn/faculty/faculty/2730.html) - Motion Correction.
 * [Marcus Brubakero](http://www.cs.toronto.edu/~mbrubake/) - CryoEM 3D Molecular Reconstruction, Machine Learning, CVPR 2015.
-* [Meiler Lab](http://www.meilerlab.org/index.php) - Computational Chemical and Structural Biology, `EMfold.
+* [Meiler Lab](http://www.meilerlab.org/index.php) - Computational Chemical and Structural Biology, `EMfold`.
+* [Sriram Subramaniam](https://electron.nci.nih.gov/publications)
 
 ## Workshop Docs
 
