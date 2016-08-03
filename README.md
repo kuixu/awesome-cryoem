@@ -102,7 +102,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ## Active Groups
 
 * [MRC](http://www2.mrc-lmb.cam.ac.uk/) - MRC Laboratory of Molecular Biology
-    * [Scheres(Relion Author)](http://www2.mrc-lmb.cam.ac.uk/groups/scheres/) - Relion Author. 
+    * [Scheres](http://www2.mrc-lmb.cam.ac.uk/groups/scheres/) - Relion Author. 
 * [Joachim Frank](http://franklab.cpmc.columbia.edu/franklab) -  Franklin Lab
 * [Bob Glaeser](http://mcb.berkeley.edu/faculty/all/glaeserr) - Single-particle electron cryo-microscopy.
 * [Yifan Cheng](http://cryoem.ucsf.edu/) - TRPA1.
