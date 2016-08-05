@@ -51,6 +51,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [DeepPicker](https://arxiv.org/abs/1605.01838) - Fully Automated Particle Picking using deep learning.
 * [FindEM](http://www.ccpem.ac.uk/ccpem_projects.php) - CCP-EM projects, automated particle picking from electron micrographs, using Fortran
 * [EMfold](http://www.meilerlab.org/index.php/servers/show?s_id=18) - Meiler Lab,  placement of helices is restricted to CryoEM density regions.
+* [De novo protein structure determination from near-atomic-resolution cryo-EM maps](http://www.nature.com/doifinder/10.1038/nmeth.3287)
+* [Atomic accuracy models from 4.5 Å cryo-electron microscopy data with density-guided iterative local refinement](http://www.nature.com/doifinder/10.1038/nmeth.3286)
 
 ## Technologies
 [back to top](#readme) 
@@ -69,7 +71,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     * Semi Automatic
 * 2D Classification
 * 3D Classification
+    * [Relion]
 * Motion Correction
+    * [Electron counting and beam-induced motion correction enable near-atomic-resolution single-particle cryo-EM](http://www.nature.com/nmeth/journal/v10/n6/full/nmeth.2472.html) - Xueming Li's work.     
 * CTF Correction
 * Model Building
     * [EMAN2](http://blake.bcm.edu/emanwiki/EMAN2) - A scientific image processing software suite with a focus on CryoEM and CryoET.
@@ -78,6 +82,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     * [De novo protein structure determination from near-atomic-resolution cryo-EM maps](http://www.nature.com/doifinder/10.1038/nmeth.3287)
     * [Atomic accuracy models from 4.5 Å cryo-electron microscopy data with density-guided iterative local refinement](http://www.nature.com/doifinder/10.1038/nmeth.3286)
     * [EMfold](http://www.meilerlab.org/index.php/servers/show?s_id=18) - Meiler Lab,  placement of helices is restricted to CryoEM density regions.
+    * SSE based methods.
+    * Backbone tracing methods.
 * Model Validation
 
 ## Validation Metrics
@@ -123,7 +129,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ## TODO
 - [x] more paper(from David Baker) to read;
-- [x] more usefull tools should be added in.
+- [x] more usefull tools should be added in;
+- [x] SSE prediction based model building methods.
  
 
 
