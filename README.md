@@ -68,6 +68,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     * Fully Automatic
       * [DeepPicker](https://arxiv.org/abs/1605.01838) - Fully Automated Particle Picking using deep learning.
       * [FindEM](http://www.ccpem.ac.uk/ccpem_projects.php) - CCP-EM projects, automated particle picking from electron micrographs, using Fortran
+      * [DeepEM](http://arxiv.org/pdf/1605.05543v1.pdf) - A deep learning approach to single-particle recognition in cryo-electron microscopy,Yanan Zhu, Qi Ouyang, Youdong Mao.
     * Semi Automatic
 * 2D Classification
 * 3D Classification
