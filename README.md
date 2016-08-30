@@ -132,6 +132,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 - [x] more paper(from David Baker) to read;
 - [x] more usefull tools should be added in;
 - [x] SSE prediction based model building methods.
+- [x] [De Novo modeling in cryo-EM density maps with Pathwalking](https://www.ncbi.nlm.nih.gov/pubmed/27436409).
+- [x] [3.9 Å structure of the nucleosome core particle determined by phase-plate cryo-EM](https://www.ncbi.nlm.nih.gov/pubmed/27563056)
  
 
 
