@@ -134,6 +134,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 - [x] SSE prediction based model building methods.
 - [x] [De Novo modeling in cryo-EM density maps with Pathwalking](https://www.ncbi.nlm.nih.gov/pubmed/27436409).
 - [x] [3.9 Å structure of the nucleosome core particle determined by phase-plate cryo-EM](https://www.ncbi.nlm.nih.gov/pubmed/27563056)
+- [x] [Automated structure refinement of macromolecular assemblies from cryo-EM maps using Rosetta](http://biorxiv.org/content/biorxiv/early/2016/04/26/050286.full.pdf)
  
 
 
