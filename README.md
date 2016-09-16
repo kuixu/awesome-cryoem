@@ -85,6 +85,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     * [EMfold](http://www.meilerlab.org/index.php/servers/show?s_id=18) - Meiler Lab,  placement of helices is restricted to CryoEM density regions.
     * SSE based methods.
     * Backbone tracing methods.
+    * [Pathwalker](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3307788/pdf/nihms350767.pdf) - Constructing and Validating Initial Cα Models from Subnanometer Resolution Density Maps with Pathwalking, TSP
 * Model Validation
 
 ## Validation Metrics
