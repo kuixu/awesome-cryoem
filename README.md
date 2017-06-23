@@ -61,7 +61,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [De novo protein structure determination from near-atomic-resolution cryo-EM maps](http://www.nature.com/doifinder/10.1038/nmeth.3287)
 * [Atomic accuracy models from 4.5 Å cryo-electron microscopy data with density-guided iterative local refinement](http://www.nature.com/doifinder/10.1038/nmeth.3286)
 * [cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination](http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4169.html)
-    * [Building proteins in a day: Efficient 3D molecular reconstruction](CVPR2015)
+    * [Building proteins in a day: Efficient 3D molecular reconstruction(CVPR2015)](#)
 
 ## Technologies
 [back to top](#readme) 
