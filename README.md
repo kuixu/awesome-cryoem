@@ -47,6 +47,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [PHENIX](https://www.phenix-online.org/) - Automated determination of molecular structures using X-ray crystallography and other methods.
 * [Rosetta](https://www.rosettacommons.org/) - A software suite includes algorithms for computational modeling and analysis of protein structures.
     * [RosettaCM](#)
+* [FREALIGN: high-resolution refinement of single particle structures](#)
+* [SIMPLE: Software for ab initio reconstruction of heterogeneous single-particles](#)
+* [PRIME: probabilistic initial 3D model generation for single-particle cryo-electron microscopy](#)
 * [SPIDER](http://spider.wadsworth.org) - System for Processing Image Data from Electron microscopy and Related fields.
 * [CCP4](http://www.ccp4.ac.uk/) - Collaborative Computational Project No. 4 Software for Macromolecular X-Ray Crystallography.
     * [Buccaneer](#)
@@ -57,6 +60,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [EMfold](http://www.meilerlab.org/index.php/servers/show?s_id=18) - Meiler Lab,  placement of helices is restricted to CryoEM density regions.
 * [De novo protein structure determination from near-atomic-resolution cryo-EM maps](http://www.nature.com/doifinder/10.1038/nmeth.3287)
 * [Atomic accuracy models from 4.5 Å cryo-electron microscopy data with density-guided iterative local refinement](http://www.nature.com/doifinder/10.1038/nmeth.3286)
+* [cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination](http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4169.html)
+    * [Building proteins in a day: Efficient 3D molecular reconstruction](CVPR2015)
 
 ## Technologies
 [back to top](#readme) 
@@ -104,6 +109,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [EMDB](https://www.ebi.ac.uk/pdbe/emdb/index.html) - The Electron Microscopy Data Bank (EMDB)
 * [EMPIAR](https://www.ebi.ac.uk/pdbe/emdb/empiar) - EMPIAR, the Electron Microscopy Pilot Image Archive, is a public resource for raw, 2D electron microscopy images.
+    * [EMPIAR: a public archive for raw electron microscopy image data](http://www.nature.com/doifinder/10.1038/nmeth.3806)
 * [PDB](http://www.rcsb.org/pdb/home/home.do) - Protein Data Bank
 * [PDBe](http://www.ebi.ac.uk/pdbe) - Protein Data Bank in Europe
 * [PDBj](http://www.pdbj.org) - Protein Data Bank Japan 
