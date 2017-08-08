@@ -46,7 +46,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [EMAN2](http://blake.bcm.edu/emanwiki/EMAN2) - A scientific image processing software suite with a focus on CryoEM and CryoET.
 * [PHENIX](https://www.phenix-online.org/) - Automated determination of molecular structures using X-ray crystallography and other methods.
 * [Rosetta](https://www.rosettacommons.org/) - A software suite includes algorithms for computational modeling and analysis of protein structures.
-    * [RosettaCM](#)
+    * [RosettaCM](http://www.sciencedirect.com/science/article/pii/S0969212613002979?via%3Dihub) - High-Resolution Comparative Modeling with RosettaCM
+    * [RosettaES](http://www.nature.com/nmeth/journal/v14/n8/full/nmeth.4340.html) - RosettaES: a sampling strategy enabling automated interpretation of difficult cryo-EM maps
 * [FREALIGN: high-resolution refinement of single particle structures](#)
 * [SIMPLE: Software for ab initio reconstruction of heterogeneous single-particles](#)
 * [PRIME: probabilistic initial 3D model generation for single-particle cryo-electron microscopy](#)
@@ -62,6 +63,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Atomic accuracy models from 4.5 Å cryo-electron microscopy data with density-guided iterative local refinement](http://www.nature.com/doifinder/10.1038/nmeth.3286)
 * [cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination](http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4169.html)
     * [Building proteins in a day: Efficient 3D molecular reconstruction(CVPR2015)](#)
+* [Pathwalker](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3307788/pdf/nihms350767.pdf) - Constructing and Validating Initial Cα Models from Subnanometer Resolution Density Maps with Pathwalking, TSP
+* [EMBuilder](https://www.nature.com/articles/s41598-017-02725-w) - EMBuilder: A Template Matching-based Automatic Model-building Program for High-resolution Cryo-Electron Microscopy Maps
 
 ## Technologies
 [back to top](#readme) 
@@ -81,7 +84,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     * Semi Automatic
 * 2D Classification
 * 3D Classification
-    * [Relion]
+    * [Relion](www2.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page) - A Bayesian approach to refinement of 3D reconstructions or 2D class averages.
+    * [cryoSPARC](http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4169.html) - cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination
 * Motion Correction
     * [Electron counting and beam-induced motion correction enable near-atomic-resolution single-particle cryo-EM](http://www.nature.com/nmeth/journal/v10/n6/full/nmeth.2472.html) - Xueming Li's work.     
 * CTF Correction
@@ -95,6 +99,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     * SSE based methods.
     * Backbone tracing methods.
     * [Pathwalker](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3307788/pdf/nihms350767.pdf) - Constructing and Validating Initial Cα Models from Subnanometer Resolution Density Maps with Pathwalking, TSP
+    * [EMBuilder](https://www.nature.com/articles/s41598-017-02725-w) - EMBuilder: A Template Matching-based Automatic Model-building Program for High-resolution Cryo-Electron Microscopy Maps
+    * [Book chapter, Review](https://www.sciencedirect.com/science/article/pii/S0076687916301136?via%3Dihub) - Tools for Model Building and Optimization into Near-Atomic Resolution Electron Cryo-Microscopy Density Maps
 * Model Validation
 
 ## Validation Metrics
@@ -103,6 +109,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [RMSD](https://en.wikipedia.org/wiki/Root-mean-square_deviation_of_atomic_positions) - Root Mean Square Deviation
 * [FSC](https://en.wikipedia.org/wiki/Fourier_shell_correlation) - Fourier shell correlation.
 * [B-factor](http://www.cmbi.ru.nl/bdb/theory/) -  A measure of (local) mobility in the (macro)molecule.
+* [GDT-HA](http://onlinelibrary.wiley.com/doi/10.1002/prot.21753/full) - The percentage of correctly aligned residues in the 5 Å LGA sequence-independent superposition of the model and experimental structure of the target.
+* [GDT-TS](#)
+* [AL0](#)
 
 ## DataBases
 [back to top](#readme) 
