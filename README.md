@@ -22,6 +22,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ## Guides
 *An awesome list of CryoEM related guides.* 
+<img src="imgs/cryoem1.png" width = "360" height = "180" alt="Cryo-EM" />
+
 
 ### Official Guides
 [back to top](#readme) 
