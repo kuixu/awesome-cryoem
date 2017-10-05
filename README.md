@@ -1,6 +1,8 @@
 # Awesome CryoEM
 A collaborative list of awesome CryoEM (Electron Cryo-Microscopy) resources. Feel free to contribute!
 
+<img src="imgs/cryoem1.png" width = "360px" height = "180px" alt="Cryo-EM" />
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ### Contributing
@@ -22,7 +24,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ## Guides
 *An awesome list of CryoEM related guides.* 
-<img src="imgs/cryoem1.png" width = "360px" height = "180px" alt="Cryo-EM" />
+
 
 
 
