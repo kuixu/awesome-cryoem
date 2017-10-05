@@ -48,7 +48,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [PHENIX](https://www.phenix-online.org/) - Automated determination of molecular structures using X-ray crystallography and other methods.
 * [Rosetta](https://www.rosettacommons.org/) - A software suite includes algorithms for computational modeling and analysis of protein structures.
     * [RosettaCM](http://www.sciencedirect.com/science/article/pii/S0969212613002979?via%3Dihub) - High-Resolution Comparative Modeling with RosettaCM
-    * [RosettaES](http://www.nature.com/nmeth/journal/v14/n8/full/nmeth.4340.html) - RosettaES: a sampling strategy enabling automated interpretation of difficult cryo-EM maps
+    * [RosettaES](http://www.nature.com/nmeth/journal/v14/n8/full/nmeth.4340.html) - RosettaES: a sampling strategy enabling automated interpretation of difficult cryo-EM maps(2017) 
 * [FREALIGN: high-resolution refinement of single particle structures](#)
 * [SIMPLE: Software for ab initio reconstruction of heterogeneous single-particles](#)
 * [PRIME: probabilistic initial 3D model generation for single-particle cryo-electron microscopy](#)
@@ -133,8 +133,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ## Active Groups
 
 * [MRC](http://www2.mrc-lmb.cam.ac.uk/) - MRC Laboratory of Molecular Biology
+    * [Richard Henderson](http://www2.mrc-lmb.cam.ac.uk/group-leaders/h-to-m/richard-henderson/) - Richard Henderson Lab (The Nobel Prize in Chemistry 2017)
     * [Scheres](http://www2.mrc-lmb.cam.ac.uk/groups/scheres/) - Relion Author. 
-* [Joachim Frank](http://franklab.cpmc.columbia.edu/franklab) -  Franklin Lab
+* [Joachim Frank](http://franklab.cpmc.columbia.edu/franklab) -  Franklin Lab (The Nobel Prize in Chemistry 2017)
 * [Bob Glaeser](http://mcb.berkeley.edu/faculty/all/glaeserr) - Single-particle electron cryo-microscopy.
 * [Yifan Cheng](http://cryoem.ucsf.edu/) - TRPA1.
 * [Yigong Shi](http://ygshi.life.tsinghua.edu.cn/home.htm) - Spliceosome, pre-mRNA splicing, γ-Secretase, Apoptosis.
@@ -145,6 +146,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Marcus Brubakero](http://www.cs.toronto.edu/~mbrubake/) - CryoEM 3D Molecular Reconstruction, Machine Learning, CVPR 2015.
 * [Meiler Lab](http://www.meilerlab.org/index.php) - Computational Chemical and Structural Biology, `EMfold`.
 * [Sriram Subramaniam](https://electron.nci.nih.gov/publications)
+
 
 ## Workshop Docs
 
