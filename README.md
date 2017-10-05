@@ -138,9 +138,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ## Active Groups
 
 * [MRC](http://www2.mrc-lmb.cam.ac.uk/) - MRC Laboratory of Molecular Biology
-    * [Richard Henderson](http://www2.mrc-lmb.cam.ac.uk/group-leaders/h-to-m/richard-henderson/) - Richard Henderson Lab (The Nobel Prize in Chemistry 2017)
+    * [Richard Henderson](http://www2.mrc-lmb.cam.ac.uk/group-leaders/h-to-m/richard-henderson/) - Richard Henderson Lab (**The Nobel Prize in Chemistry 2017**)
     * [Scheres](http://www2.mrc-lmb.cam.ac.uk/groups/scheres/) - Relion Author. 
-* [Joachim Frank](http://franklab.cpmc.columbia.edu/franklab) -  Franklin Lab (The Nobel Prize in Chemistry 2017)
+* [Joachim Frank](http://franklab.cpmc.columbia.edu/franklab) -  Franklin Lab (**The Nobel Prize in Chemistry 2017**)
 * [Bob Glaeser](http://mcb.berkeley.edu/faculty/all/glaeserr) - Single-particle electron cryo-microscopy.
 * [Yifan Cheng](http://cryoem.ucsf.edu/) - TRPA1.
 * [Yigong Shi](http://ygshi.life.tsinghua.edu.cn/home.htm) - Spliceosome, pre-mRNA splicing, γ-Secretase, Apoptosis.
