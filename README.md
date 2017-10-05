@@ -53,7 +53,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [PHENIX](https://www.phenix-online.org/) - Automated determination of molecular structures using X-ray crystallography and other methods.
 * [Rosetta](https://www.rosettacommons.org/) - A software suite includes algorithms for computational modeling and analysis of protein structures.
     * [RosettaCM](http://www.sciencedirect.com/science/article/pii/S0969212613002979?via%3Dihub) - High-Resolution Comparative Modeling with RosettaCM
-    * [RosettaES](http://www.nature.com/nmeth/journal/v14/n8/full/nmeth.4340.html) - RosettaES: a sampling strategy enabling automated interpretation of difficult cryo-EM maps(2017) 
+    * [RosettaES](http://www.nature.com/nmeth/journal/v14/n8/full/nmeth.4340.html) - RosettaES: a sampling strategy enabling automated interpretation of difficult cryo-EM maps(2017) 
 * [FREALIGN: high-resolution refinement of single particle structures](#)
 * [SIMPLE: Software for ab initio reconstruction of heterogeneous single-particles](#)
 * [PRIME: probabilistic initial 3D model generation for single-particle cryo-electron microscopy](#)
@@ -93,10 +93,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     * [Relion](www2.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page) - A Bayesian approach to refinement of 3D reconstructions or 2D class averages.
     * [cryoSPARC](http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4169.html) - cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination
     * [AuTom](http://www.sciencedirect.com/science/article/pii/S1047847717301284) - AuTom: A novel automatic platform for electron tomography reconstruction 
-    
+
 * Motion Correction
     * [Electron counting and beam-induced motion correction enable near-atomic-resolution single-particle cryo-EM](http://www.nature.com/nmeth/journal/v10/n6/full/nmeth.2472.html) - Xueming Li's work.  
-     
+
 * CTF Correction
 * Model Building
     * [EMAN2](http://blake.bcm.edu/emanwiki/EMAN2) - A scientific image processing software suite with a focus on CryoEM and CryoET.
@@ -138,7 +138,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ## Active Groups
 
 * [MRC](http://www2.mrc-lmb.cam.ac.uk/) - MRC Laboratory of Molecular Biology
-    * [Richard Henderson](http://www2.mrc-lmb.cam.ac.uk/group-leaders/h-to-m/richard-henderson/) - Richard Henderson Lab (The Nobel Prize in Chemistry 2017)
+    * [Richard Henderson](http://www2.mrc-lmb.cam.ac.uk/group-leaders/h-to-m/richard-henderson/) - Richard Henderson Lab (The Nobel Prize in Chemistry 2017)
     * [Scheres](http://www2.mrc-lmb.cam.ac.uk/groups/scheres/) - Relion Author. 
 * [Joachim Frank](http://franklab.cpmc.columbia.edu/franklab) -  Franklin Lab (The Nobel Prize in Chemistry 2017)
 * [Bob Glaeser](http://mcb.berkeley.edu/faculty/all/glaeserr) - Single-particle electron cryo-microscopy.
@@ -152,11 +152,18 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Meiler Lab](http://www.meilerlab.org/index.php) - Computational Chemical and Structural Biology, `EMfold`.
 * [Sriram Subramaniam](https://electron.nci.nih.gov/publications)
 
+[3D-EM Laboratories](http://3dem.ucsd.edu/labs_a_c.shtm)
+
 
 ## Workshop Docs
 
 * [EMAN2 ](http://blake.bcm.edu/emanwiki/EMAN2/Tutorials)
 * [Resource from Meiler Lab](http://www.meilerlab.org/index.php/jobs/resources) - Rosetta Tutorials, Teaching Resources, etc.
+
+## Websites
+
+* [Software Tools For Molecular Microscopy](http://en.wikibooks.org/wiki/Software_Tools_For_Molecular_Microscopy)
+* [3D-EM Laboratories](http://3dem.ucsd.edu/labs_a_c.shtm)
 
 
 ## TODO
@@ -166,7 +173,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 - [x] [De Novo modeling in cryo-EM density maps with Pathwalking](https://www.ncbi.nlm.nih.gov/pubmed/27436409).
 - [x] [3.9 Å structure of the nucleosome core particle determined by phase-plate cryo-EM](https://www.ncbi.nlm.nih.gov/pubmed/27563056)
 - [x] [Automated structure refinement of macromolecular assemblies from cryo-EM maps using Rosetta](http://biorxiv.org/content/biorxiv/early/2016/04/26/050286.full.pdf)
- 
+
 
 
 ## License
