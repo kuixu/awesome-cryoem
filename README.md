@@ -34,15 +34,14 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [3 Mins Introduction of CryoEM](#) - 3 Mins Introduction of CryoEM for beginners.
-* [Single-particle cryo-electron microscopy](http://www.nature.com/nmeth/journal/v13/n1/full/nmeth.3700.html) - 
-* [Single-particle cryo-electron microscopy](http://www.nature.com/nmeth/journal/v13/n1/full/nmeth.3700.html) - 
+* [Single-particle cryo-electron microscopy](http://www.nature.com/nmeth/journal/v13/n1/full/nmeth.3700.html) - Nature Method Review.
 
 ### Third party Guides
 [back to top](#readme) 
 
 * [EMAN2 Video Tutorials](http://blake.bcm.edu/emanwiki/EMAN2/VideoTutorials)
 
-## Softwares
+## Methods and Softwares
 [back to top](#readme) 
 
 * [UCSF Chimera](https://www.cgl.ucsf.edu/chimera/) - An interactive visualization and analysis of structures.
@@ -113,6 +112,12 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     * [EMBuilder](https://www.nature.com/articles/s41598-017-02725-w) - EMBuilder: A Template Matching-based Automatic Model-building Program for High-resolution Cryo-Electron Microscopy Maps
     * [Book chapter, Review](https://www.sciencedirect.com/science/article/pii/S0076687916301136?via%3Dihub) - Tools for Model Building and Optimization into Near-Atomic Resolution Electron Cryo-Microscopy Density Maps
 * Model Validation
+
+* Tomography
+    * [EMAN2.2](https://www.nature.com/nmeth/journal/v14/n10/full/nmeth.4405.html) - Convolutional neural networks for automated annotation of cellular cryo-electron tomograms
+    * [Convolutional Neural Networks for　Automated Annotation of Cellular CryoElectron　Tomograms](https://arxiv.org/pdf/1701.05567.pdf)
+    * ［Deep learning based subdivision approach for large scale macromolecules
+structure recovery from electron cryo tomograms］(https://arxiv.org/pdf/1701.08404.pdf)
 
 ## Validation Metrics
 [back to top](#readme) 
