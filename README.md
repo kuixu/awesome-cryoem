@@ -33,7 +33,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Official Guides
 [back to top](#readme) 
 
-* [3 Mins Introduction of CryoEM](#) - 3 Mins Introduction of CryoEM for beginners.
+* [3 Mins Introduction of CryoEM](https://www.youtube.com/watch?v=BJKkC0W-6Qk) - 3 Mins Introduction of CryoEM for beginners.
 * [Single-particle cryo-electron microscopy](http://www.nature.com/nmeth/journal/v13/n1/full/nmeth.3700.html) - Nature Method Review.
 
 ### Third party Guides
