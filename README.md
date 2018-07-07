@@ -83,41 +83,46 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ## Computational Problems
 [back to top](#readme) 
 
-* Particle Picking
-    * Fully Automatic
+### Particle Picking
+* Fully Automatic
       * [DeepPicker](https://arxiv.org/abs/1605.01838) - Fully Automated Particle Picking using deep learning.
       * [FindEM](http://www.ccpem.ac.uk/ccpem_projects.php) - CCP-EM projects, automated particle picking from electron micrographs, using Fortran
       * [DeepEM](http://arxiv.org/pdf/1605.05543v1.pdf) - A deep learning approach to single-particle recognition in cryo-electron microscopy,Yanan Zhu, Qi Ouyang, Youdong Mao.
-    * Semi Automatic
-* 2D Classification
-* 3D Classification
-    * [Relion](http://www2.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page) - A Bayesian approach to refinement of 3D reconstructions or 2D class averages.
-    * [cryoSPARC](http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4169.html) - cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination
-    * [AuTom](http://www.sciencedirect.com/science/article/pii/S1047847717301284) - AuTom: A novel automatic platform for electron tomography reconstruction 
+      * [SPHIRE-crYOLO](https://www.biorxiv.org/content/early/2018/06/26/356584) - SPHIRE-crYOLO: A fast and well-centering automated particle picker for cryo-EM.
+* Semi Automatic
+### 2D Classification
+### 3D Classification
+* [Relion](http://www2.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page) - A Bayesian approach to refinement of 3D reconstructions or 2D class averages.
+* [cryoSPARC](http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4169.html) - cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination
+* [AuTom](http://www.sciencedirect.com/science/article/pii/S1047847717301284) - AuTom: A novel automatic platform for electron tomography reconstruction 
 
-* Motion Correction
-    * [Electron counting and beam-induced motion correction enable near-atomic-resolution single-particle cryo-EM](http://www.nature.com/nmeth/journal/v10/n6/full/nmeth.2472.html) - Xueming Li's work.  
+### Denoising
+* [GAN](https://www.biorxiv.org/content/early/2018/02/12/256792) - Generative adversarial networks as a tool to recover structural information from cryo-electron microscopy data.
 
-* CTF Correction
-* Model Building
-    * [EMAN2](http://blake.bcm.edu/emanwiki/EMAN2) - A scientific image processing software suite with a focus on CryoEM and CryoET.
-    * [PHENIX](https://www.phenix-online.org/) - Automated determination of molecular structures using X-ray crystallography and other methods.
-    * [Rosetta](https://www.rosettacommons.org/) - A software suite includes algorithms for computational modeling and analysis of protein structures.
-    * [De novo protein structure determination from near-atomic-resolution cryo-EM maps](http://www.nature.com/doifinder/10.1038/nmeth.3287)
-    * [Atomic accuracy models from 4.5 Å cryo-electron microscopy data with density-guided iterative local refinement](http://www.nature.com/doifinder/10.1038/nmeth.3286)
-    * [EMfold](http://www.meilerlab.org/index.php/servers/show?s_id=18) - Meiler Lab,  placement of helices is restricted to CryoEM density regions.
-    * SSE based methods.
-    * Backbone tracing methods.
-    * [Pathwalker](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3307788/pdf/nihms350767.pdf) - Constructing and Validating Initial Cα Models from Subnanometer Resolution Density Maps with Pathwalking, TSP
-    * [EMBuilder](https://www.nature.com/articles/s41598-017-02725-w) - EMBuilder: A Template Matching-based Automatic Model-building Program for High-resolution Cryo-Electron Microscopy Maps
-    * [Book chapter, Review](https://www.sciencedirect.com/science/article/pii/S0076687916301136?via%3Dihub) - Tools for Model Building and Optimization into Near-Atomic Resolution Electron Cryo-Microscopy Density Maps
-* Model Validation
+### Motion Correction
+* [Electron counting and beam-induced motion correction enable near-atomic-resolution single-particle cryo-EM](http://www.nature.com/nmeth/journal/v10/n6/full/nmeth.2472.html) - Xueming Li's work.  
 
-* Tomography
-    * [EMAN2.2](https://www.nature.com/nmeth/journal/v14/n10/full/nmeth.4405.html) - Convolutional neural networks for automated annotation of cellular cryo-electron tomograms
-    * [Convolutional Neural Networks for　Automated Annotation of Cellular CryoElectron　Tomograms](https://arxiv.org/pdf/1701.05567.pdf)
-    * ［Deep learning based subdivision approach for large scale macromolecules
-structure recovery from electron cryo tomograms］(https://arxiv.org/pdf/1701.08404.pdf)
+### CTF Correction
+### Model Building
+* [EMAN2](http://blake.bcm.edu/emanwiki/EMAN2) - A scientific image processing software suite with a focus on CryoEM and CryoET.
+* [PHENIX](https://www.phenix-online.org/) - Automated determination of molecular structures using X-ray crystallography and other methods.
+* [Rosetta](https://www.rosettacommons.org/) - A software suite includes algorithms for computational modeling and analysis of protein structures.
+* [De novo protein structure determination from near-atomic-resolution cryo-EM maps](http://www.nature.com/doifinder/10.1038/nmeth.3287)
+* [Atomic accuracy models from 4.5 Å cryo-electron microscopy data with density-guided iterative local refinement](http://www.nature.com/doifinder/10.1038/nmeth.3286)
+* [EMfold](http://www.meilerlab.org/index.php/servers/show?s_id=18) - Meiler Lab,  placement of helices is restricted to CryoEM density regions.
+* SSE based methods.
+* Backbone tracing methods.
+* [Pathwalker](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3307788/pdf/nihms350767.pdf) - Constructing and Validating Initial Cα Models from Subnanometer Resolution Density Maps with Pathwalking, TSP
+* [EMBuilder](https://www.nature.com/articles/s41598-017-02725-w) - EMBuilder: A Template Matching-based Automatic Model-building Program for High-resolution Cryo-Electron Microscopy Maps
+* [Book chapter, Review](https://www.sciencedirect.com/science/article/pii/S0076687916301136?via%3Dihub) - Tools for Model Building and Optimization into Near-Atomic Resolution Electron Cryo-Microscopy Density Maps
+### Model Validation
+
+### Tomography
+* [EMAN2.2](https://www.nature.com/nmeth/journal/v14/n10/full/nmeth.4405.html) - Convolutional neural networks for automated annotation of cellular cryo-electron tomograms
+* [Convolutional Neural Networks for　Automated Annotation of Cellular CryoElectron　Tomograms](https://arxiv.org/pdf/1701.05567.pdf)
+* [Deep learning based subdivision approach for large scale macromolecules
+structure recovery from electron cryo tomograms](https://arxiv.org/pdf/1701.08404.pdf)
+*  [pytom](http://pytom.org/)  [Tutorial](http://pytom.org/doc/pytom/tutorial.html) 
 
 ## Validation Metrics
 [back to top](#readme) 
@@ -158,6 +163,7 @@ structure recovery from electron cryo tomograms］(https://arxiv.org/pdf/1701.08
 * [Marcus Brubakero](http://www.cs.toronto.edu/~mbrubake/) - CryoEM 3D Molecular Reconstruction, Machine Learning, CVPR 2015.
 * [Meiler Lab](http://www.meilerlab.org/index.php) - Computational Chemical and Structural Biology, `EMfold`.
 * [Sriram Subramaniam](https://electron.nci.nih.gov/publications)
+* [Michael Cianfrocco Lab](http://www.lsi.umich.edu/labs/michael-cianfrocco-lab)
 
 [3D-EM Laboratories](http://3dem.ucsd.edu/labs_a_c.shtm)
 
@@ -174,12 +180,9 @@ structure recovery from electron cryo tomograms］(https://arxiv.org/pdf/1701.08
 
 
 ## TODO
-- [x] more paper(from David Baker) to read;
-- [x] more usefull tools should be added in;
+- [x] More usefull tools should be added in.
 - [x] SSE prediction based model building methods.
-- [x] [De Novo modeling in cryo-EM density maps with Pathwalking](https://www.ncbi.nlm.nih.gov/pubmed/27436409).
-- [x] [3.9 Å structure of the nucleosome core particle determined by phase-plate cryo-EM](https://www.ncbi.nlm.nih.gov/pubmed/27563056)
-- [x] [Automated structure refinement of macromolecular assemblies from cryo-EM maps using Rosetta](http://biorxiv.org/content/biorxiv/early/2016/04/26/050286.full.pdf)
+- [x] Prepare for Tomograpy methods.
 
 
 
@@ -187,4 +190,3 @@ structure recovery from electron cryo tomograms］(https://arxiv.org/pdf/1701.08
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Kui Xu](https://github.com/barrykui) has waived all copyright and related or neighboring rights to this work.
