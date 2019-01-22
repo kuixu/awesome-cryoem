@@ -89,6 +89,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
       * [FindEM](http://www.ccpem.ac.uk/ccpem_projects.php) - CCP-EM projects, automated particle picking from electron micrographs, using Fortran
       * [DeepEM](http://arxiv.org/pdf/1605.05543v1.pdf) - A deep learning approach to single-particle recognition in cryo-electron microscopy,Yanan Zhu, Qi Ouyang, Youdong Mao.
       * [SPHIRE-crYOLO](https://www.biorxiv.org/content/early/2018/06/26/356584) - SPHIRE-crYOLO: A fast and well-centering automated particle picker for cryo-EM.
+      * [PIXER](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2614-y) - PIXER: an automated particle-selection method based on segmentation using a deep neural network.
 * Semi Automatic
 ### 2D Classification
 ### 3D Classification
@@ -115,6 +116,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Pathwalker](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3307788/pdf/nihms350767.pdf) - Constructing and Validating Initial Cα Models from Subnanometer Resolution Density Maps with Pathwalking, TSP
 * [EMBuilder](https://www.nature.com/articles/s41598-017-02725-w) - EMBuilder: A Template Matching-based Automatic Model-building Program for High-resolution Cryo-Electron Microscopy Maps
 * [Book chapter, Review](https://www.sciencedirect.com/science/article/pii/S0076687916301136?via%3Dihub) - Tools for Model Building and Optimization into Near-Atomic Resolution Electron Cryo-Microscopy Density Maps
+* [MAINMAST](https://www.nature.com/articles/s41467-018-04053-7) - from [Kihara Lab](http://kiharalab.org/mainmast/),  Terashi, Genki, and Daisuke Kihara. "De novo main-chain modeling for EM maps using MAINMAST." Nature communications 9.1 (2018): 1618. 
+* [A^2-Net](https://arxiv.org/abs/1901.00785), A^2-Net: Molecular Structure Estimation from Cryo-EM Density Volumes, The 33rd AAAI Conference on Artificial Intelligence (AAAI) (2019) 
+* [Map_to_model](https://www.nature.com/articles/s41592-018-0173-1),[biorxiv Version](https://www.biorxiv.org/content/biorxiv/early/2018/02/16/267138.full.pdf), A fully automatic method yielding initial models from high-resolution electron cryo-microscopy	
 ### Model Validation
 
 ### Tomography
