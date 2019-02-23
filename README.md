@@ -164,10 +164,12 @@ structure recovery from electron cryo tomograms](https://arxiv.org/pdf/1701.0840
 * [David Baker](http://www.ipd.uw.edu/people/ipd-faculty-staff/david-baker/) - Rosetta.
 * [Frank DiMaio](https://faculty.washington.edu/dimaio/wordpress/) - CryoEM model building.
 * [Xueming Li](http://life.tsinghua.edu.cn/faculty/faculty/2730.html) - Motion Correction.
+* [Hong-wei Wang](http://cryoem.life.tsinghua.edu.cn)
 * [Marcus Brubakero](http://www.cs.toronto.edu/~mbrubake/) - CryoEM 3D Molecular Reconstruction, Machine Learning, CVPR 2015.
 * [Meiler Lab](http://www.meilerlab.org/index.php) - Computational Chemical and Structural Biology, `EMfold`.
 * [Sriram Subramaniam](https://electron.nci.nih.gov/publications)
 * [Michael Cianfrocco Lab](http://www.lsi.umich.edu/labs/michael-cianfrocco-lab)
+* [Kihara Lab](http://kiharalab.org/mainmast/)
 
 [3D-EM Laboratories](http://3dem.ucsd.edu/labs_a_c.shtm)
 
