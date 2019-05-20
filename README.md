@@ -35,6 +35,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [3 Mins Introduction of CryoEM](https://www.youtube.com/watch?v=BJKkC0W-6Qk) - 3 Mins Introduction of CryoEM for beginners.
 * [Single-particle cryo-electron microscopy](http://www.nature.com/nmeth/journal/v13/n1/full/nmeth.3700.html) - Nature Method Review.
+* [CryoEM Course](https://www.coursera.org/learn/cryo-em)
+* [CryoEM 101](https://cryoem101.org)
+* [MRC lab CryoEM](https://www2.mrc-lmb.cam.ac.uk/research/scientific-training/electron-microscopy/)
 
 ### Third party Guides
 [back to top](#readme) 
