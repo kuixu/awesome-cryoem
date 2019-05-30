@@ -88,12 +88,19 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ### Particle Picking
 * Fully Automatic
-      * [DeepPicker](https://arxiv.org/abs/1605.01838) - Fully Automated Particle Picking using deep learning.
-      * [FindEM](http://www.ccpem.ac.uk/ccpem_projects.php) - CCP-EM projects, automated particle picking from electron micrographs, using Fortran
-      * [DeepEM](http://arxiv.org/pdf/1605.05543v1.pdf) - A deep learning approach to single-particle recognition in cryo-electron microscopy,Yanan Zhu, Qi Ouyang, Youdong Mao.
-      * [SPHIRE-crYOLO](https://www.biorxiv.org/content/early/2018/06/26/356584) - SPHIRE-crYOLO: A fast and well-centering automated particle picker for cryo-EM.
-      * [PIXER](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2614-y) - PIXER: an automated particle-selection method based on segmentation using a deep neural network.
+    * [DeepPicker](https://arxiv.org/abs/1605.01838) - Fully Automated Particle Picking using deep learning.
+    * [FindEM](http://www.ccpem.ac.uk/ccpem_projects.php) - CCP-EM projects, automated particle picking from electron micrographs, using Fortran
+    * [DeepEM](http://arxiv.org/pdf/1605.05543v1.pdf) - A deep learning approach to single-particle recognition in cryo-electron microscopy,Yanan Zhu, Qi Ouyang, Youdong Mao.
+    * [SPHIRE-crYOLO](https://www.biorxiv.org/content/early/2018/06/26/356584) - SPHIRE-crYOLO: A fast and well-centering automated particle picker for cryo-EM.
+    * [PIXER](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2614-y) - PIXER: an automated particle-selection method based on segmentation using a deep neural network.
+    * [A fast method for particle picking in cryo-electron micrographs based on fast R-CNN](https://aip.scitation.org/doi/pdf/10.1063/1.4982020)
+    * [Real-time cryo-EM data pre-processing with warp](https://www.biorxiv.org/content/10.1101/338558v1)
+    * [Positive-unlabeled convolutional neural networks for particle picking in cryo-electron micrographs](https://arxiv.org/pdf/1803.08207)
+    * [DRPnet](https://www.biorxiv.org/content/biorxiv/early/2019/05/05/616169.full.pdf) - Automated Particle Picking in Cryo-Electron Micrographs using Deep Regression. 
+    
 * Semi Automatic
+    * [AutoPicker](https://www.sciencedirect.com/science/article/pii/S1047847714002615) - Semi-automated selection of cryo-EM particles in RELION-1.3.
+    
 ### 2D Classification
 ### 3D Classification
 * [Relion](http://www2.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page) - A Bayesian approach to refinement of 3D reconstructions or 2D class averages.
