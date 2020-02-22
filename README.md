@@ -142,17 +142,19 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [DeepTracer](https://www.biorxiv.org/content/10.1101/2020.02.12.946772v1) - DeepTracer: Predicting Backbone Atomic Structure from High Resolution Cryo-EM Density Maps of Protein Complexes
 * [Automatic building of protein atomic models from cryo-EM density maps using residue co-evolution](https://www.biorxiv.org/content/10.1101/2020.01.03.893669v1.full.pdf)
 * [Haruspex](https://www.biorxiv.org/content/10.1101/644476v3.full.pdf) - Automatic annotation of Cryo-EM maps with the convolutional neural network 
+
 ### Other Related Research
 * [Automated Threshold Selection for Cryo-EM Density Maps](https://www.biorxiv.org/content/biorxiv/early/2019/06/02/657395.full.pdf)
 * [DEFMap](https://www.biorxiv.org/content/10.1101/2020.02.17.951863v1) - Extraction of Protein Dynamics Information Hidden in Cryo-EM Map Using Deep Learning, 2020
 * [MicrographCleaner](https://www.biorxiv.org/content/10.1101/677542v3) - MicrographCleaner: a python package for cryo-EM micrograph cleaning using deep learning
+* [Deep Learning for Validating and Estimating Resolution of Cryo-Electron Microscopy Density Maps](https://www.ncbi.nlm.nih.gov/pubmed/30917528) 
 
 ### Tomography
 * [EMAN2.2](https://www.nature.com/nmeth/journal/v14/n10/full/nmeth.4405.html) - Convolutional neural networks for automated annotation of cellular cryo-electron tomograms
-* [Convolutional Neural Networks for　Automated Annotation of Cellular CryoElectron　Tomograms](https://arxiv.org/pdf/1701.05567.pdf)
+* [Convolutional Neural Networks for Automated Annotation of Cellular CryoElectron Tomograms](https://arxiv.org/pdf/1701.05567.pdf)
 * [Deep learning based subdivision approach for large scale macromolecules
 structure recovery from electron cryo tomograms](https://arxiv.org/pdf/1701.08404.pdf)
-*  [pytom](http://pytom.org/)  [Tutorial](http://pytom.org/doc/pytom/tutorial.html) 
+*  [pytom](http://pytom.org/),  [Tutorial](http://pytom.org/doc/pytom/tutorial.html) 
 
 ## Validation Metrics
 [back to top](#readme) 
