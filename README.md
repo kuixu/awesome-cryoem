@@ -146,6 +146,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Other Related Research
 * [Automated Threshold Selection for Cryo-EM Density Maps](https://www.biorxiv.org/content/biorxiv/early/2019/06/02/657395.full.pdf)
 * [DEFMap](https://www.biorxiv.org/content/10.1101/2020.02.17.951863v1) - Extraction of Protein Dynamics Information Hidden in Cryo-EM Map Using Deep Learning, 2020
+    * Implementation on [GitHub](https://github.com/clinfo/DEFMap)
 * [MicrographCleaner](https://www.biorxiv.org/content/10.1101/677542v3) - MicrographCleaner: a python package for cryo-EM micrograph cleaning using deep learning
 * [Deep Learning for Validating and Estimating Resolution of Cryo-Electron Microscopy Density Maps](https://www.ncbi.nlm.nih.gov/pubmed/30917528) 
 
