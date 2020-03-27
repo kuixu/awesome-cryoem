@@ -118,12 +118,15 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ### 3D Reconstruction
 * [Relion](http://www2.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page) - A Bayesian approach to refinement of 3D reconstructions or 2D class averages. [code](https://github.com/3dem/relion)
+    * [externprior](https://www.biorxiv.org/content/10.1101/2020.03.25.007914v1.full.pdf) - Exploiting prior knowledge about biological macromolecules in cryo-EM structure determination. [Code](https://github.com/3dem/externprior) RELION external reconstruct functionality with a convolutional neural network.
     * [3.0](https://elifesciences.org/articles/42166) - New tools for automated high-resolution cryo-EM structure determination in RELION-3
     * [2.1](ftp://ftp.mrc-lmb.cam.ac.uk/pub/scheres/relion21_tutorial.pdf) - Tutorial (v2.1) (The quickest way to learning RELION) 
     * [Nature Protocol Paper](http://www.nature.com/nprot/journal/v11/n11/full/nprot.2016.124.html) - Resolving macromolecular structures from electron cryo-tomography data using subtomogram averaging in RELION
-* [cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination](http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4169.html)
+    
+* [cryoSPARC](http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4169.html) - cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination
 * [THUNDER](https://www.nature.com/articles/s41592-018-0223-8) - A particle-filter framework for robust cryo-EM 3D reconstruction
 * [cryoDRGN](https://arxiv.org/pdf/1909.05215) - Reconstructing continuously heterogeneous structures from single particle cryo-EM with deep generative models, Accepted to ICLR 2020 for oral spotlight presentation
+
 
 ### Model Building
 * [EMAN2](http://blake.bcm.edu/emanwiki/EMAN2) - A scientific image processing software suite with a focus on CryoEM and CryoET.
