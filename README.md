@@ -199,7 +199,7 @@ structure recovery from electron cryo tomograms](https://arxiv.org/pdf/1701.0840
 * [Hong-wei Wang](http://cryoem.life.tsinghua.edu.cn)
 * [Marcus Brubakero](http://www.cs.toronto.edu/~mbrubake/) - CryoEM 3D Molecular Reconstruction, Machine Learning, CVPR 2015.
 * [Meiler Lab](http://www.meilerlab.org/index.php) - Computational Chemical and Structural Biology, `EMfold`.
-* [Sriram Subramaniam](https://electron.nci.nih.gov/publications)
+* [Sriram Subramaniam](https://electron.med.ubc.ca/)
 * [Michael Cianfrocco Lab](http://www.lsi.umich.edu/labs/michael-cianfrocco-lab)
 * [Kihara Lab](http://kiharalab.org/mainmast/)
 * [Bonnie Berger](http://people.csail.mit.edu/bab/)
