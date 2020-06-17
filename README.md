@@ -108,10 +108,12 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [cryoSPARC](http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4169.html) - cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination
 * [AuTom](http://www.sciencedirect.com/science/article/pii/S1047847717301284) - AuTom: A novel automatic platform for electron tomography reconstruction 
 
-### Denoising
+### Pre-processing and Denoising 
 * [GAN](https://www.biorxiv.org/content/early/2018/02/12/256792) - Generative adversarial networks as a tool to recover structural information from cryo-electron microscopy data.
 * [Warp](https://www.biorxiv.org/content/10.1101/338558v1) - Real-time cryo-EM data pre-processing with Warp
 * [Topaz-Denoise](https://www.biorxiv.org/content/10.1101/838920v1) - Topaz-Denoise: general deep denoising models for cryoEM
+* [DeepEMhacer](https://www.biorxiv.org/content/10.1101/2020.06.12.148296v1?rss=1) - DeepEMhacer: a deep learning solution for cryo-EM volume post-processing
+* [TranSPHIRE](https://www.biorxiv.org/content/10.1101/2020.06.16.155275v1?rss=1) - TranSPHIRE: Automated and feedback-optimized on-the-fly processing for cryo-EM
 
 ### Motion Correction
 * [Electron counting and beam-induced motion correction enable near-atomic-resolution single-particle cryo-EM](http://www.nature.com/nmeth/journal/v10/n6/full/nmeth.2472.html) - Xueming Li's work.  
