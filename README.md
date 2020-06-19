@@ -115,6 +115,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [DeepEMhacer](https://www.biorxiv.org/content/10.1101/2020.06.12.148296v1?rss=1) - DeepEMhacer: a deep learning solution for cryo-EM volume post-processing
 * [TranSPHIRE](https://www.biorxiv.org/content/10.1101/2020.06.16.155275v1?rss=1) - TranSPHIRE: Automated and feedback-optimized on-the-fly processing for cryo-EM
 
+
 ### Motion Correction
 * [Electron counting and beam-induced motion correction enable near-atomic-resolution single-particle cryo-EM](http://www.nature.com/nmeth/journal/v10/n6/full/nmeth.2472.html) - Xueming Li's work.  
 
@@ -127,7 +128,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     
 * [cryoSPARC](http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4169.html) - cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination
 * [THUNDER](https://www.nature.com/articles/s41592-018-0223-8) - A particle-filter framework for robust cryo-EM 3D reconstruction
-* [cryoDRGN](https://arxiv.org/pdf/1909.05215) - Reconstructing continuously heterogeneous structures from single particle cryo-EM with deep generative models, Accepted to ICLR 2020 for oral spotlight presentation
+* [CryoDRGN](https://arxiv.org/pdf/1909.05215) - Reconstructing continuously heterogeneous structures from single particle cryo-EM with deep generative models, Accepted to ICLR 2020 for oral spotlight presentation
+* [CryoGAN](https://www.biorxiv.org/content/10.1101/2020.03.20.001016v1) - CryoGAN: A New Reconstruction Paradigm for Single-particle Cryo-EM Via Deep Adversarial Learning
 
 
 ### Model Building
