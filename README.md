@@ -48,7 +48,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [UCSF Chimera](https://www.cgl.ucsf.edu/chimera/) - An interactive visualization and analysis of structures.
-* [UCSF ChimeraX](https://www.cgl.ucsf.edu/chimera/) - An interactive visualization and analysis of structures.
+* [UCSF ChimeraX](https://www.cgl.ucsf.edu/chimera/) - An interactive visualization and analysis of structures. [code](https://github.com/RBVI/ChimeraX)
 * [Relion](http://www2.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page) - A Bayesian approach to refinement of 3D reconstructions or 2D class averages.
     * [`New` 2.1 ](ftp://ftp.mrc-lmb.cam.ac.uk/pub/scheres/relion21_tutorial.pdf) - Tutorial (v2.1) (The quickest way to learning RELION) 
     * [Nature Protocol Paper](http://www.nature.com/nprot/journal/v11/n11/full/nprot.2016.124.html) - Resolving macromolecular structures from electron cryo-tomography data using subtomogram averaging in RELION
@@ -112,6 +112,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * **Phenix.auto_sharpen**: Automated map sharpening by maximization of detail and connectivity. [[paper]](https://www.biorxiv.org/content/10.1101/247049v1.full.pdf) 
 * **Phenix.density_modification**: Automated map sharpening by maximization of detail and connectivity. [[paper]](https://www.biorxiv.org/content/10.1101/845032v1) 
 * **Deepsharpen**: Deep-Learning Based Sharpening Of 3D Reconstruction Map From Cryo-Electron Microscopy. [[paper]](https://ieeexplore.ieee.org/abstract/document/9153369/) 
+* **SuperEM**: Super-Resolution Cryo-EM Maps With 3D Deep Generative Networks. [[paper]](https://www.biorxiv.org/content/10.1101/2021.01.12.426430v1) [[code]](https://github.com/kiharalab/SuperEM) [[webpage]](https://kiharalab.org/emsuites/superem.php) 
 
 
 ### Motion Correction
