@@ -48,7 +48,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [UCSF Chimera](https://www.cgl.ucsf.edu/chimera/) - An interactive visualization and analysis of structures.
-* [UCSF ChimeraX](https://www.cgl.ucsf.edu/chimera/) - An interactive visualization and analysis of structures. [code](https://github.com/RBVI/ChimeraX)
+* [UCSF ChimeraX](https://www.cgl.ucsf.edu/chimera/) - An interactive visualization and analysis of structures. [[code]](https://github.com/RBVI/ChimeraX)
 * [Relion](http://www2.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page) - A Bayesian approach to refinement of 3D reconstructions or 2D class averages.
     * [`New` 2.1 ](ftp://ftp.mrc-lmb.cam.ac.uk/pub/scheres/relion21_tutorial.pdf) - Tutorial (v2.1) (The quickest way to learning RELION) 
     * [Nature Protocol Paper](http://www.nature.com/nprot/journal/v11/n11/full/nprot.2016.124.html) - Resolving macromolecular structures from electron cryo-tomography data using subtomogram averaging in RELION
@@ -106,7 +106,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Pre-processing and Denoising 
 * **GAN-Denosing** - Generative adversarial networks as a tool to recover structural information from cryo-electron microscopy data. [[paper]](https://www.biorxiv.org/content/early/2018/02/12/256792).
 * **Warp** - Real-time cryo-EM data pre-processing with Warp. [[paper]](https://www.biorxiv.org/content/10.1101/338558v1).
-* Topaz-Denoise: general deep denoising models for cryoEM. [[paper]](), [[bioRxiv]](https://www.biorxiv.org/content/10.1101/838920v1)
+* **Topaz-Denoise**: general deep denoising models for cryoEM. [[paper]](), [[bioRxiv]](https://www.biorxiv.org/content/10.1101/838920v1)
 * **DeepEMhacer**: a deep learning solution for cryo-EM volume post-processing. [[paper]](https://www.biorxiv.org/content/10.1101/2020.06.12.148296v1?rss=1)
 * **TranSPHIRE**: Automated and feedback-optimized on-the-fly processing for cryo-EM. [[paper]](https://www.biorxiv.org/content/10.1101/2020.06.16.155275v1?rss=1) 
 * **Phenix.auto_sharpen**: Automated map sharpening by maximization of detail and connectivity. [[paper]](https://www.biorxiv.org/content/10.1101/247049v1.full.pdf) 
@@ -116,14 +116,14 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 
 ### Motion Correction
-* Electron counting and beam-induced motion correction enable near-atomic-resolution single-particle cryo-EM, [paper](http://www.nature.com/nmeth/journal/v10/n6/full/nmeth.2472.html).  
+* Electron counting and beam-induced motion correction enable near-atomic-resolution single-particle cryo-EM, [[paper]](http://www.nature.com/nmeth/journal/v10/n6/full/nmeth.2472.html).  
 
 ### 3D Reconstruction
-* **Relion** - A Bayesian approach to refinement of 3D reconstructions or 2D class averages. [page](http://www2.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page), [code](https://github.com/3dem/relion)
+* **Relion** - A Bayesian approach to refinement of 3D reconstructions or 2D class averages. [[webpage]](http://www2.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page), [[code]](https://github.com/3dem/relion)
     * [Nature Protocol Paper](http://www.nature.com/nprot/journal/v11/n11/full/nprot.2016.124.html) - Resolving macromolecular structures from electron cryo-tomography data using subtomogram averaging in RELION
     * **2.1** [[code]](https://github.com/3dem/relion/releases/tag/2.1.0), [Tutorial (v2.1)](ftp://ftp.mrc-lmb.cam.ac.uk/pub/scheres/relion21_tutorial.pdf)
     * **3.0** - New tools for automated high-resolution cryo-EM structure determination in RELION-3. [[paper]](https://elifesciences.org/articles/42166) 
-    * **externprior** - Exploiting prior knowledge about biological macromolecules in cryo-EM structure determination. [[paper]](https://www.biorxiv.org/content/10.1101/2020.03.25.007914v1.full.pdf), [code](https://github.com/3dem/externprior) RELION external reconstruct functionality with a convolutional neural network.
+    * **externprior** - Exploiting prior knowledge about biological macromolecules in cryo-EM structure determination. [[paper]](https://www.biorxiv.org/content/10.1101/2020.03.25.007914v1.full.pdf), [[code]](https://github.com/3dem/externprior) RELION external reconstruct functionality with a convolutional neural network.
     * **3.1** [[code]](https://github.com/3dem/relion/releases/tag/3.1.0), [Tutorial (v3.1)](ftp://ftp.mrc-lmb.cam.ac.uk/pub/scheres/relion31_tutorial.pdf)
     
 * **cryoSPARC**: algorithms for rapid unsupervised cryo-EM structure determination. Nature Methods, 2017. [[paper]](http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4169.html)
@@ -134,25 +134,25 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ### Model Building
 
-* **PHENIX** - Automated determination of molecular structures using X-ray crystallography and other methods. [[page]]((https://www.phenix-online.org/)).
+* **PHENIX** - Automated determination of molecular structures using X-ray crystallography and other methods. [[webpage]]((https://www.phenix-online.org/)).
     * Map_to_model - A fully automatic method yielding initial models from high-resolution electron cryo-microscopy.  Nature Methods, 2018. [[paper]](https://www.nature.com/articles/s41592-018-0173-1), [[bioRxiv]](https://www.biorxiv.org/content/biorxiv/early/2018/02/16/267138.full.pdf).
-* **Rosetta** - A software suite includes algorithms for computational modeling and analysis of protein structures. [[page]](https://www.rosettacommons.org/).
+* **Rosetta** - A software suite includes algorithms for computational modeling and analysis of protein structures. [[webpage]](https://www.rosettacommons.org/).
     * **RosettaCM** - High-Resolution Comparative Modeling with RosettaCM. [[paper]](http://www.sciencedirect.com/science/article/pii/S0969212613002979?via%3Dihub).
     * De novo protein structure determination from near-atomic-resolution cryo-EM maps. Nature Methods, 2015. [[paper]](http://www.nature.com/doifinder/10.1038/nmeth.3287).
     * Atomic accuracy models from 4.5 Å cryo-electron microscopy data with density-guided iterative local refinement. Nature Methods, 2015. [[paper]](http://www.nature.com/doifinder/10.1038/nmeth.3286).
     * RosettaES: a sampling strategy enabling automated interpretation of difficult cryo-EM maps. Nature Methods, 2017. [[paper]](http://www.nature.com/nmeth/journal/v14/n8/full/nmeth.4340.html).
-* **ISOLDE** - Ease the task of model building at low resolution. [[page]](https://isolde.cimr.cam.ac.uk/).
-* **EMfold** - Placement of helices is restricted to CryoEM density regions. [[page]]((http://www.meilerlab.org/index.php/servers/show?s_id=18) )
+* **ISOLDE** - Ease the task of model building at low resolution. [[webpage]](https://isolde.cimr.cam.ac.uk/).
+* **EMfold** - Placement of helices is restricted to CryoEM density regions. [[webpage]]((http://www.meilerlab.org/index.php/servers/show?s_id=18) )
 * **Pathwalker** - Constructing and Validating Initial Cα Models from Subnanometer Resolution Density Maps with Pathwalking. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3307788/pdf/nihms350767.pdf).
 * **EMBuilder**: A Template Matching-based Automatic Model-building Program for High-resolution Cryo-Electron Microscopy Maps. [[paper]](https://www.nature.com/articles/s41598-017-02725-w).
 * Tools for Model Building and Optimization into Near-Atomic Resolution Electron Cryo-Microscopy Density Maps. [[Book chapter]](https://www.sciencedirect.com/science/article/pii/S0076687916301136?via%3Dihub).
-* **MAINMAST** - De novo main-chain modeling for EM maps using MAINMAST. [[paper]](https://www.nature.com/articles/s41467-018-04053-7), [[page]](http://kiharalab.org/mainmast/).
-* **A^2-Net**: Molecular Structure Estimation from Cryo-EM Density Volumes. The 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019. [[paper]](https://arxiv.org/abs/1901.00785), [[page]](http://zhanglab.net/A-2-Net).
+* **MAINMAST** - De novo main-chain modeling for EM maps using MAINMAST. [[paper]](https://www.nature.com/articles/s41467-018-04053-7), [[webpage]](http://kiharalab.org/mainmast/).
+* **A^2-Net**: Molecular Structure Estimation from Cryo-EM Density Volumes. The 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019. [[paper]](https://arxiv.org/abs/1901.00785), [[webpage]](http://zhanglab.net/A-2-Net).
 * **Cascaded-CNN**: Deep Learning to Predict Protein Backbone Structure from High-Resolution Cryo-EM Density Maps. [[paper]](https://www.biorxiv.org/content/10.1101/572990v3), [[code]](https://github.com/DrDongSi/Ca-Backbone-Prediction).
 * **DeepTracer**: Predicting Backbone Atomic Structure from High Resolution Cryo-EM Density Maps of Protein Complexes. [[paper]](https://www.biorxiv.org/content/10.1101/2020.02.12.946772v1), [[paper2]](https://www.biorxiv.org/content/10.1101/2020.07.21.214064v2), [[web service]](https://deeptracer.uw.edu/).
 * **MSTree** - Automatic building of protein atomic models from cryo-EM density maps using residue co-evolution. [[paper]](https://www.biorxiv.org/content/10.1101/2020.01.03.893669v1.full.pdf).
 * **Haruspex** - Automatic annotation of Cryo-EM maps with the convolutional neural network. [[paper]](https://www.biorxiv.org/content/10.1101/644476v3.full.pdf).
-* Scipion - Integration of Cryo-EM Model Building Software in Scipion, 2020. [[paper]](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b01032), [[page]](http://scipion.i2pc.es), [[code]](https://github.com/I2PC/scipion).
+* Scipion - Integration of Cryo-EM Model Building Software in Scipion, 2020. [[paper]](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b01032), [[webpage]](http://scipion.i2pc.es), [[code]](https://github.com/I2PC/scipion).
 
 ### Refinement
 [back to top](#readme) 
@@ -186,11 +186,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * Deep Learning for Validating and Estimating Resolution of Cryo-Electron Microscopy Density Maps. [[paper]](https://doi.org/10.3390/molecules24061181) 
 
 ### Tomography
-* **EMAN2** - A scientific image processing software suite with a focus on CryoEM and CryoET. [[page]]((http://blake.bcm.edu/emanwiki/EMAN2)), [[code]](https://github.com/cryoem/eman2).
+* **EMAN2** - A scientific image processing software suite with a focus on CryoEM and CryoET. [[webpage]]((http://blake.bcm.edu/emanwiki/EMAN2)), [[code]](https://github.com/cryoem/eman2).
     * CryoET Segmentation - Convolutional Neural Networks for Automated Annotation of Cellular CryoElectron Tomograms. [[paper]](https://www.nature.com/nmeth/journal/v14/n10/full/nmeth.4405.html), [[arxiv]](https://arxiv.org/pdf/1701.05567.pdf)
 * Subtomogram Subdivision, Deep learning based subdivision approach for large scale macromolecules
 structure recovery from electron cryo tomograms. [[paper]](https://arxiv.org/pdf/1701.08404.pdf)
-* **pytom**. [[page]](http://pytom.org/),  [[Tutorial]](http://pytom.org/doc/pytom/tutorial.html) 
+* **pytom**. [[webpage]](http://pytom.org/),  [[Tutorial]](http://pytom.org/doc/pytom/tutorial.html) 
 * **emClarity**: software for high-resolution cryo-electron tomography and subtomogram averaging. [[paper]](http://dx.doi.org/10.1038/s41592-018-0167-z), [[code]](https://github.com/bHimes/emClarity), [[wiki]](https://github.com/bHimes/emClarity/wiki)
 
 
